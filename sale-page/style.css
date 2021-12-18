@@ -1,29 +1,6 @@
 body {
     width: 80%;
 }
-/*
-h1 {
-    display: inline-block;
-    border: 5px solid blue;
-}
-/*
-#company {
-    columns: auto;
-}
-*/
-/*
-#company-logo {
-    border: 5px solid blue;
-    padding: 50px;
-    display: inline-flex;
-    margin: auto;
-}
-
-#cart {
-    margin: 20px;
-    float: right;
-}
-*/
 
 header {
     display: grid;
